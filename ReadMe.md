@@ -1,7 +1,5 @@
 # Hi 👋, I'm Akrash Noor
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/coding-with-akrash/" alt="https://github.com/coding-with-akrash/" /></a> </p>
-
 - 🔭 I'm currently working on **my Final year project**
 
 - 🌱 I'm currently learning **different frameworks**
