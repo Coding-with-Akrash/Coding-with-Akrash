@@ -1,7 +1,5 @@
 # Hi 👋, I'm Akrash Noor
 
-![Hits](https://seeyoufarm.com)
-
 - 🔭 I'm currently working on **my Final year project**
 
 - 🌱 I'm currently learning **different frameworks**
