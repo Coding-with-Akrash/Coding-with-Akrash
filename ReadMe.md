@@ -1,5 +1,6 @@
 # Hi 👋, I'm Akrash Noor
 
+![Profile Views](https://komarev.com/ghpvc/?username=Coding-with-Akrash)
 - 🔭 I'm currently working on **my Final year project**
 
 - 🌱 I'm currently learning **different frameworks**
