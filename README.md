@@ -11,9 +11,9 @@ Welcome to my GitHub profile. I enjoy building useful software, learning continu
 
 ## Connect with me
 
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/your-linkedin-username/)
-- Portfolio: [Add your portfolio website](https://your-portfolio.example/)
-- Email: [Add your email address](mailto:your-email@example.com)
+- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/akrash-noor/)
+- Portfolio: [Add your portfolio website](https://akrash.codinguni.online/)
+- Email: [Add your email address](mailto:akrashnoor2580@gmail.com)
 
 > Replace the placeholder links above with your real details before publishing.
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile. I enjoy building useful software, learning continu
 
 ![Akrash Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrashnoor&show_icons=true&hide_title=true&theme=transparent)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akrashnoor&layout=compact&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-with-Akrash&layout=compact&theme=transparent)
 
 ---
 
