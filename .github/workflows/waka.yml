@@ -1,15 +1,21 @@
-name: Update WakaTime Stats
+name: Update WakaTime Advanced Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight (UTC)
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: athul/waka-readme@master
+      - uses: miermontoto/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.waka_911cb870-a0b9-4f10-a8cb-4463719aaaf7}}
+          GH_TOKEN: ${{ secrets.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 }}
+          SHOW_OS: "True"          # Set to True if you want to show your OS
+          SHOW_PROJECTS: "False"    # Set to True if you want to show project names
+          SHOW_TIMEZONE: "False"
+          SHOW_EDITORS: "True"      # Shows VS Code, Vim, etc.
+          SHOW_LANGUAGE: "True"     # This ensures your languages are displayed
